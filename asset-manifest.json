@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Hanami/static/css/main.ca91c428.css",
+    "main.js": "/Hanami/static/js/main.29505e0f.js",
+    "static/media/Sakura.mp4": "/Hanami/static/media/Sakura.3c44452c0fc1f47e5517.mp4",
+    "static/media/fuji-sakura.jpg": "/Hanami/static/media/fuji-sakura.80bdebf215306452ed1b.jpg",
+    "static/media/hanami.png": "/Hanami/static/media/hanami.f9b15329e89561d4f572.png",
+    "static/media/hirosaki-sakura.jpg": "/Hanami/static/media/hirosaki-sakura.944c712d03ef25b9b4e0.jpg",
+    "static/media/kyoto-sakura.jpg": "/Hanami/static/media/kyoto-sakura.21fccb19f57a2fd20d7e.jpg",
+    "static/media/sakura-sapporo.jpg": "/Hanami/static/media/sakura-sapporo.d9d4f0544277da247ed5.jpg",
+    "static/media/tokyo-sakura.jpg": "/Hanami/static/media/tokyo-sakura.61979556185bc292b93e.jpg",
+    "static/media/325.jpeg": "/Hanami/static/media/325.067c5895829c8ac6a1c2.jpeg",
+    "static/media/321.png": "/Hanami/static/media/321.7d4e27bd94f22a0181b6.png",
+    "index.html": "/Hanami/index.html",
+    "main.ca91c428.css.map": "/Hanami/static/css/main.ca91c428.css.map",
+    "main.29505e0f.js.map": "/Hanami/static/js/main.29505e0f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ca91c428.css",
+    "static/js/main.29505e0f.js"
+  ]
+}

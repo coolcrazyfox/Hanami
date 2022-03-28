@@ -4,6 +4,7 @@ import meto from '../assets/325.jpeg'
 import hanami from '../assets/hanami.png'
 
 const Method = () => {
+    let test=1
   return (
     <div className='w-full text-white bg-black'>
       {/*<div className='max-w-[1240px] mx-auto px-4 py-16 md:flex'>*/}
